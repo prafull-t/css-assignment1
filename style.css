@@ -1,0 +1,30 @@
+.heading{
+    color: rgb(189, 0, 0);
+}
+.subheadings{
+    color: red;
+    font-style: italic;
+}
+.restcontent{
+ color: rgb(110, 0, 42);   
+}
+.line{
+    line-height: 50px;
+}
+.strike{
+    text-decoration: line-through;
+    font-weight: 700;
+}
+.bg {
+    background-color: yellow;
+    font-weight: 700
+}
+.underline{
+    text-decoration: underline rgb(199, 45, 45);
+}
+.list2{
+    letter-spacing: 4px;
+}
+.yellow{
+    background-color: yellow;   
+}
